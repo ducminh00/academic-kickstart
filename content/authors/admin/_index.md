@@ -18,17 +18,8 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Well, you know why God made snakes before he made lawyers? He needed to practice. 
-interests:
-- Đi học nhưng không phải làm bài tập.
+bio: " ''There's nothing more dangerous in life than not living'' - Walter White"
 
-
-education:
-  courses:
-  - course: Chắc chắn không phải một khoá học về nghệ thuật
-    institution: Chắc chắn không phải một trường về nghệ thuật
-    year: 2018
- 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -63,16 +54,11 @@ user_groups:
 - Visitors
 ---
 
-Mình là Minh, hiện đang sinh sống và học tập tại Hà Nội.
+Mình là Minh, hiện đang sinh sống và học tập tại Hà Nội. 
 
-  
+Đây là nơi mình sẽ chia sẻ những kiến thức, trải nghiệm của mình trong quá trình thực hành nhiếp ảnh. 
+Mình rất mong mọi người sẽ đón nhận chúng, và nếu có bất cứ ý kiến, thắc mắc nào đừng ngại ngần mà hãy liên hệ với mình. 
 
-***
+Cảm ơn mọi người. 
 
-Mình muốn trở thành luật sư giỏi như Saul Goodman.
-
-***
-
-  
-
-> "Well, you know why God made snakes before he made lawyers? He needed to practice." - Jimmy McGill
+***Để xem những dự án mình đã thực hiện, mọi người có thể truy cập vào [Behance](https://www.behance.net/minhdnguyen) của mình.***
