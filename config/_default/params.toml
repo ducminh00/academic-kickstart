@@ -140,7 +140,7 @@ address_format = "en-us"
 ############################
 
 # Main menu alignment (l = left, c = center, r = right) and logo options.
-main_menu = {align = "c", show_logo = false}
+main_menu = {align = "c", show_logo = true}
 
 # Show estimated reading time for posts? (true/false)
 reading_time = false
@@ -150,7 +150,7 @@ section_pager = true
 docs_section_pager = false  # Display pager in Docs layout (e.g. tutorials)?
 
 # Enable in-built social sharing buttons? (true/false)
-sharing = false
+sharing = true
 
 # Link authors to their profile page? (true/false)
 link_authors = true
@@ -211,7 +211,7 @@ plugins_js  = []
   engine = 0
 
   # Which page types are commentable?
-  commentable = {page = false, post = false, docs = false, project = false, publication = false, talk = false}
+  commentable = {page = true, post = true, docs = true, project = false, publication = false, talk = false}
 
   # Configuration of Disqus.
   [comments.disqus]
