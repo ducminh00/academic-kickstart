@@ -5,8 +5,8 @@ title: "Liệu máy ảnh có quan trọng - Một vài ý kiến cá nhân củ
 subtitle: ""
 summary: "Trong bài viết này, mình sẽ chia sẻ quan điểm cá nhân về những chiếc máy ảnh và tầm quan trọng của chúng, thông qua trải nghiệm trong quá trình thực hiện dự án cá nhân 'Ngày cuối ở Chu Văn An'. "
 authors: [admin]
-tags: []
-categories: []
+tags: [ngaycuoiocva]
+categories: [Photography]
 date: 2020-04-03T01:14:00+07:00
 lastmod: 2020-04-03T01:14:00+07:00
 featured: true
