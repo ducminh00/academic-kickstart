@@ -25,7 +25,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [Ngay-cuoi-o-chu-van-an]
 ---
 Máy ảnh chụp hình lấy ngay (Instant Camera) đã xuất hiện lần đầu vào khoảng năm 1963 và được nhiều nhiếp ảnh gia sử dụng làm công cụ sáng tạo của mình. Có rất nhiều hãng sản xuất máy ảnh chụp hình lấy ngay nổi tiếng, mà sớm nhất là Polaroid, sau này chúng ta có thêm Fujifilm với dòng Instax, Lomography với dòng Lomo’Instant… 
 
