@@ -3,9 +3,9 @@
 
 title: "Ngày cuối ở Chu Văn An."
 summary: "Một dự án mình thực hiện với tình yêu dành cho quãng thời gian đi học tại mái trường cấp III. "
-authors: []
-tags: []
-categories: []
+authors: [admin]
+tags: [Done]
+categories: [Photography]
 date: 2020-04-04T23:58:12+07:00
 
 # Optional external URL for project (replaces project detail page).
