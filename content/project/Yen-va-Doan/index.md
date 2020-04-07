@@ -45,4 +45,4 @@ Lúc đó trời vẫn còn nhiều nắng, thời tiết rất đẹp.
 
 Mình và Yên lâu ngày mới gặp lại nhau - mình còn được gặp thêm một người bạn mới là Doãn. 
 
-**Xem toàn bộ dự án của mình tại:** https://www.behance.net/gallery/90056367/Yen-va-Doan
+**Xem toàn bộ dự án của mình tại:** https://www.behance.net/gallery/90056367/Yen-va-Doans
